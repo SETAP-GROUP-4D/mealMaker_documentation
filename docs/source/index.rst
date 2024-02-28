@@ -1,7 +1,7 @@
 Welcome to MealMaker's documentation!
 ========================================
 
-**MealMaker** is a Python library designed for food enthusiasts and home cooks, offering a convenient way to generate recipes using a variety of ingredients. It utilizes data from various sources, such as online recipe databases and nutritional information repositories, to provide users with diverse and delicious meal options.
+**MealMaker** is a javascript webapp designed for food enthusiasts and home cooks, offering a convenient way to generate recipes using a variety of ingredients. It utilizes data from various sources, such as online recipe databases and nutritional information repositories, to provide users with diverse and delicious meal options.
 
 Check out the sections below for detailed information on how to use MealMaker effectively:
 
